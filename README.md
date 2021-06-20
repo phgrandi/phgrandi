@@ -36,7 +36,7 @@
 <a href="https://github.com/http-ph">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=http-ph&theme=darcula&show_icons=true" style"max-width: 100%;" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=http-ph&theme=darcula&layout=compact" style"max-width: 100%;" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=http_ph&repo=discordjs-tickebot&theme=darcula" />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=http_ph&repo=discordjs-ticketbot)](https://github.com/http_ph/discordjs-ticketbot)
 
 </a>
 
