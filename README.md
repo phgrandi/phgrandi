@@ -3,8 +3,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies.
-- 💼 &nbsp; I’m currently working on CNM's project.
-- 🌱 &nbsp; Learning more about React, C# and FiveM Development.
+- 💼 &nbsp; I’m currently working on Ravena's project.
+- 🌱 &nbsp; Learning more about React, C#, JS and FiveM Development.
 - ✍️ &nbsp; I’m looking to collaborate on FiveM and help with GTA RP Development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -19,7 +19,7 @@
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=4bc425)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
