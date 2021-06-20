@@ -34,8 +34,8 @@
 <h3> ⚙️  GitHub Analytics </h3>
   
 <a href="https://github.com/http-ph">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=http-ph&theme=react&show_icons=true" style"max-width: 100%;" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=http-ph&theme=react&layout=compact" style"max-width: 100%;" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=http-ph&theme=dark&show_icons=true" style"max-width: 100%;" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=http-ph&theme=dark&layout=compact" style"max-width: 100%;" />
 </a>
 
 <br/>
