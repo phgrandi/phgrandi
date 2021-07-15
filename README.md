@@ -43,4 +43,4 @@
 
 <br/>
 
-<img src="https://profile-counter.glitch.me/http-ph/count.svg" alt="hit counter" align="center">
+<img src="https://profile-counter.glitch.me/http-ph/count.svg" alt="hit counter" align="center"> **visits to my profile**
