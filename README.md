@@ -17,6 +17,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=4bc425)
+  ![Express.JS](https://img.shields.io/badge/Express.js-333333?style=flat&logo=express&logoColor=6084bf)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb)
