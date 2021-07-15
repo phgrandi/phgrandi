@@ -42,3 +42,5 @@
 </a>
 
 <br/>
+
+<img src="https://profile-counter.glitch.me/cadufeitosa/count.svg" alt="hit counter" align="center">
