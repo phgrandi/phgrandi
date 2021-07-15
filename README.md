@@ -40,7 +40,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=http-ph&theme=darcula&layout=compact" style"max-width: 100%;" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/pin?username=http-ph&repo=discordjs-ticketbot&theme=darcula" style"max-width: 100%;" />
   
-  <h4>🧍 Visits to my profile </h4>
+  <h3>🧍 Visits to my profile </h3>
   <img src="https://profile-counter.glitch.me/http-ph/count.svg" alt="hit counter" align="center">
 </a>
 
