@@ -39,6 +39,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=http-ph&theme=darcula&show_icons=true" style"max-width: 100%;" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=http-ph&theme=darcula&layout=compact" style"max-width: 100%;" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/pin?username=http-ph&repo=discordjs-ticketbot&theme=darcula" style"max-width: 100%;" />
-  <img src="https://profile-counter.glitch.me/http-ph/count.svg" alt="hit counter" align="center"> **visits to my profile**
+  
+  <h4>🧍 Visits to my profile </h4>
+  <img src="https://profile-counter.glitch.me/http-ph/count.svg" alt="hit counter" align="center">
 </a>
 
