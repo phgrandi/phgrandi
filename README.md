@@ -36,9 +36,8 @@
 <h3> ⚙️  GitHub Analytics </h3>
   
 <a href="https://github.com/http-ph">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=http-ph&theme=darcula&show_icons=true" style"max-width: 100%;" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=http-ph&theme=darcula&layout=compact" style"max-width: 100%;" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin?username=http-ph&repo=discordjs-ticketbot&theme=darcula" style"max-width: 100%;" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=http-ph&theme=darcula&show_icons=true" style"max-width: 100%;" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=http-ph&theme=darcula&layout=compact" style"max-width: 100%;" />
   
   <h3>🧍 Visits to my profile </h3>
   <img src="https://profile-counter.glitch.me/http-ph/count.svg" alt="hit counter" align="center">
