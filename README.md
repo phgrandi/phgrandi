@@ -1,6 +1,6 @@
 <h2> Hey there! I'm ph.</h2>
 
-![DISCORD](https://discord.c99.nl/widget/theme-1/414114974860836864.png)
+![DISCORD](https://discord.c99.nl/widget/theme-3/414114974860836864.png)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
