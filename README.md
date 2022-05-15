@@ -1,6 +1,6 @@
 <h2> Hey there! I'm ph.</h2>
 
-![DISCORD](https://discord.com/users/414114974860836864)
+<iframe src="https://discord.com/widget?id=889971573052801056&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
