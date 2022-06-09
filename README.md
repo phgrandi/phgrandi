@@ -44,7 +44,7 @@
   
   <h3> 📲 Contact </h3>
     <img height="30em" src="https://www.animesxis.com.br/wp-content/uploads/2017/02/discord-icon-450x450.png" style"max-width: 100;"/>
-  <br\>
+  <br/>
     [ph#9808](https://discord.com/users/414114974860836864)
   
   <h3>🧍 Visits to my profile </h3>
