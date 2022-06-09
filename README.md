@@ -42,6 +42,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=http-ph&theme=darcula&show_icons=true" style"max-width: 100%;" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=http-ph&theme=darcula&layout=compact" style"max-width: 100%;" />
   
+  <h3> 📲 Contact </h3>
+    <img height="50em" src="https://www.animesxis.com.br/wp-content/uploads/2017/02/discord-icon-450x450.png" style"max-width: 100;"/>
+  
   <h3>🧍 Visits to my profile </h3>
   <img src="https://profile-counter.glitch.me/http-ph/count.svg" alt="hit counter" align="center">
 </a>
