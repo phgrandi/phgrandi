@@ -43,8 +43,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=http-ph&theme=darcula&layout=compact" style"max-width: 100%;" />
   
   <h3> 📲 Contact </h3>
- 
-  Discord: [ph#8908](https://discord.com/users/414114974860836864/)
+  
+  [Discord: ph#8908](https://discord.com/users/414114974860836864/)
   
   
   <h3>🧍 Visits to my profile </h3>
