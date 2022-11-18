@@ -45,7 +45,7 @@
   
   <h3> 📲 Contact </h3>
   
-  [Discord: ph#8908](https://discord.com/users/414114974860836864/)
+  [Discord: ph#5555](https://discord.com/users/414114974860836864/)
   
   
   <h3>🧍 Visits to my profile </h3>
