@@ -10,9 +10,9 @@
 
 - 🤔 &nbsp; Exploring new technologies.
 - ✅ &nbsp; Verified Discord Bot developer.
-- 💼 &nbsp; I'm currently working on ravenabot.com project.
-- 🎀 &nbsp; I'm the creator of Ravena Bot (ravenabot.com with over 400k active users and in more than 600 servers)
-- 🔫 &nbsp; Discord manager at a server with more than 65k members.
+- 💼 &nbsp; I'm currently working on the ravenabot.com project.
+- 🎀 &nbsp; I'm the creator of Ravena Bot (ravenabot.com with over 400k active users and more than 1.1k servers)
+- 🔫 &nbsp; Discord manager at a server with over 65k members.
 - 🌱 &nbsp; Learning more about React, C#, JS and FiveM Development.
 - ✍️ &nbsp; I’m looking to collaborate on FiveM and Discord bot's development.
 
