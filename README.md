@@ -52,8 +52,8 @@
 
 <div align="center">
   <a href="https://github.com/http-ph">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=http-ph&theme=darcula&show_icons=true" style"max-width: 100%;" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=http-ph&theme=darcula&layout=compact" style"max-width: 100%;" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=phgrandi&theme=darcula&show_icons=true" style"max-width: 100%;" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phgrandi&theme=darcula&layout=compact" style"max-width: 100%;" />
 </div>
   
   #
