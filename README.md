@@ -10,7 +10,7 @@
 
 - 🤔 &nbsp; Exploring new technologies.
 - ✅ &nbsp; Verified Discord Bot developer.
-- 💼 &nbsp; I'm currently working on the ravenabot.com project.
+- 💼 &nbsp; I'm currently working on the ravenabot.com, SnapRP and MatchedBot project.
 - 🎀 &nbsp; I'm the creator of Ravena Bot (ravenabot.com with over 500k active users and more than 1.6k servers)
 - 🔫 &nbsp; Community manager at a server with over 65k members.
 - 🌱 &nbsp; Learning more about React, C#, JS and FiveM Development.
@@ -45,33 +45,17 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
 
 <br/>
-
-#
-<h3 align="center"> ⚙️  GitHub Analytics </h3>
-<br/>
-
-<div align="center">
-  <a href="https://github.com/http-ph">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=phgrandi&theme=darcula&show_icons=true" style"max-width: 100%;" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phgrandi&theme=darcula&layout=compact" style"max-width: 100%;" />
-</div>
   
   #
 <div align="center">
   <h3>📲 Contact me </h3>
   <br/>
-  <a href="https://discord.com/users/414114974860836864/"><img alt="Discord" src="https://img.shields.io/badge/Discord:%20ph%239999-7289d9?style=for-the-badge&logo=discord&logoColor=white" target="_blank"/></a></br>
+  <a href="https://discord.com/users/414114974860836864/"><img alt="Discord" src="https://img.shields.io/badge/Discord:%20grandi%2E-7289d9?style=for-the-badge&logo=discord&logoColor=white" target="_blank"/></a></br>
   <a href="mailto:contato@ravenabot.com"><img alt="Email-me" src="https://img.shields.io/badge/contato@ravenabot.com-e3e3e3?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"/></a></br>
   <a href="https://ravenabot.com"><img alt="Ravenabot.com" src="https://img.shields.io/badge/ravenabot.com-780178?style=for-the-badge&logo=google&logoColor=white" target="_blank"/></a></br>
   
  </div>
- 
- #
-<div align="center">
-  <h3>🧍 Visits to my profile </h3>
-  <br/>
-  <img src="https://profile-counter.glitch.me/http-ph/count.svg" alt="hit counter" align="center">
-</div>
+
 </a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f001e&height=120&section=footer"/>
